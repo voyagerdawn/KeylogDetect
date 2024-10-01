@@ -1,0 +1,10 @@
+* GUI
+-- Monitoring Dialog Box
+-- Deep Scan button
+-- Defend -> Encrypt option
+-- Nav BAr minimization
+-- Font change
+-- More visually pleasing
+
+*BACKEND
+-- Storage facility for detected and potential threats
